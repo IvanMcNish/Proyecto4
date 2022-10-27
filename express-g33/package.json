@@ -11,5 +11,14 @@
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^6.7.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanMcNish/Proyecto4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IvanMcNish/Proyecto4/issues"
+  },
+  "homepage": "https://github.com/IvanMcNish/Proyecto4#readme"
 }
