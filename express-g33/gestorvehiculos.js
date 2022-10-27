@@ -79,6 +79,7 @@ app.get("/VehiculoPlaca", (request, response) => {
 
 });
 
+//
 app.put("/EditarVehiculo", (request, response) => {
     const filtro = {placa: request.body.placa};
     const datoNuevo = {placa: request.body.placa,
